@@ -1,30 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://animalcoder.github.io</id>
-    <title>Acer</title>
-    <updated>2020-03-04T07:39:23.745Z</updated>
+    <title>Home</title>
+    <updated>2020-03-06T08:49:03.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://animalcoder.github.io"/>
     <link rel="self" href="https://animalcoder.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>miaomiaomiao</subtitle>
     <logo>https://animalcoder.github.io/images/avatar.png</logo>
     <icon>https://animalcoder.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Acer</rights>
+    <rights>All rights reserved 2020, Home</rights>
     <entry>
         <title type="html"><![CDATA[edwqd]]></title>
         <id>https://animalcoder.github.io/post/edwqd/</id>
         <link href="https://animalcoder.github.io/post/edwqd/">
         </link>
         <updated>2020-03-04T07:14:14.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="yfhg-ghfgh">yfhg ghfgh</h2>
+]]></summary>
         <content type="html"><![CDATA[<h2 id="yfhg-ghfgh">yfhg ghfgh</h2>
+<!--more-->
 <p><strong><a href="#link">tt</a></strong><br>
 <strong><a href="#link2">tt2</a></strong></p>
 <pre><code>#include&lt;bits/stdc++.h&gt;
 
 </code></pre>
+<ul>
+<li>ddd</li>
+<li>ddd</li>
+<li>ffff</li>
+</ul>
 <p>f<br>
 f<br>
-f<br>
+  ddd<br>
 f<br>
 f<br>
 f<br>
@@ -45,6 +53,14 @@ f<br>
 f<br>
 f<br>
 f</p>
+<pre><code class="language-javascript">function test() {
+	console.log(&quot;Hello world!&quot;);
+}
+</code></pre>
+<pre><code>dddd
+</code></pre>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>E</mi><mo>=</mo><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><annotation encoding="application/x-tex">E=mc^2
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">E</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8641079999999999em;vertical-align:0em;"></span><span class="mord mathdefault">m</span><span class="mord"><span class="mord mathdefault">c</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span></p>
 <p>f<br>
 f<br>
 f<br>
@@ -52,7 +68,8 @@ f<br>
 ff</p>
 <p>f<br>
 f</p>
-<p><strong>[link2]</strong></p>
+<p><strong>[link2]</strong><br>
+[link2]</p>
 <h2 id="link">fff</h2>
 ]]></content>
     </entry>
@@ -62,7 +79,11 @@ f</p>
         <link href="https://animalcoder.github.io/post/miao/">
         </link>
         <updated>2020-03-04T06:24:46.000Z</updated>
-        <content type="html"><![CDATA[<p>如何</p>
+        <summary type="html"><![CDATA[<p>试试摘要，试试摘要，试试摘要，试试摘要，试试摘要，试试摘要</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>试试摘要，试试摘要，试试摘要，试试摘要，试试摘要，试试摘要</p>
+<!-- more -->
+<p>如何</p>
 ]]></content>
     </entry>
     <entry>
